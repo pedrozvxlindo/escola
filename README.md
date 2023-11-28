@@ -53,7 +53,7 @@
     </footer>
 
     <!-- Adicione o link do seu site aqui -->
-    <p>Visite nosso perfil também: <a href="https://www.instagram.com/pedrozvx__">CECM MARECHAL RONDON</a></p>
+    <p>Visite nosso perfil também: <a href="https://www.instagram.com/">CECM MARECHAL RONDON</a></p>
 
 </body>
 </html>

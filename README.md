@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -17,7 +18,7 @@
 
     <nav>
         <ul>
-            <li><a href="#diretora">Primeiro de tudo veja a nossa linda diretora sem nenehum efeito</a></li>
+            <li><a href="#diretora">Primeiro de tudo veja a nossa linda diretora sem nenhum efeito</a></li>
             <li><a href="#sobre">Sobre Nós</a></li>
             <li><a href="#cantina">Cantina</a></li>
             <li><a href="#esportes">Atividades Esportivas</a></li>
@@ -27,8 +28,8 @@
 
     <main>
        <section id="diretora">
-            <h2>Primeiro de tudo veja a nossa linda diretora sem nenehum efeito</h2>
-            <img src="https://uploaddeimagens.com.br/images/004/676/739/full/consuelo.jpeg?1701201937"</img>
+            <h2>Primeiro de tudo veja a nossa linda diretora sem nenhum efeito</h2>
+            <img src="https://uploaddeimagens.com.br/images/004/676/739/full/consuelo.jpeg?1701201937">
         </section>
 
         <section id="sobre">
@@ -49,7 +50,7 @@
         <section id="contato">
             <h2>Contato</h2>
             <p>Estamos sempre prontos para ouvir você. Entre em contato conosco para obter mais informações.</p>
-            <p>Email: info@escolaexemplo.com</p>
+            <p>Email: info@cecmmarechalrondon.com</p>
             <p>Telefone: (69) 6969-6969</p>
         </section>
     </main>
@@ -63,3 +64,4 @@
 
 </body>
 </html>
+

@@ -53,7 +53,7 @@
     </footer>
 
     <!-- Adicione o link do seu site aqui -->
-    <p>Visite nosso site: <a href="https://pedrozvxlindo.github.io/escola/">Escola Exemplo</a></p>
+    <p>Visite nosso perfil também: <a href="https://www.instagram.com/pedrozvx__//">CECM MARECHAL RONDON</a></p>
 
 </body>
 </html>

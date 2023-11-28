@@ -17,6 +17,7 @@
 
     <nav>
         <ul>
+            <li><a href="#diretora">Primeiro de tudo veja a nossa linda diretora sem nenehum efeito</a></li>
             <li><a href="#sobre">Sobre Nós</a></li>
             <li><a href="#cantina">Cantina</a></li>
             <li><a href="#esportes">Atividades Esportivas</a></li>
@@ -25,6 +26,11 @@
     </nav>
 
     <main>
+       <section id="diretora">
+            <h2>Primeiro de tudo veja a nossa linda diretora sem nenehum efeito</h2>
+            <p>https://uploaddeimagens.com.br/imagens/eOp4fcg</p>
+        </section>
+
         <section id="sobre">
             <h2>Sobre Nós</h2>
             <p>Bem-vindo à Escola Exemplo, onde buscamos proporcionar uma educação de alta qualidade, focada no desenvolvimento integral dos alunos.</p>

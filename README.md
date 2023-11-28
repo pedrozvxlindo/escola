@@ -28,7 +28,7 @@
     <main>
        <section id="diretora">
             <h2>Primeiro de tudo veja a nossa linda diretora sem nenehum efeito</h2>
-            <img>https://uploaddeimagens.com.br/images/004/676/739/full/consuelo.jpeg?1701201937</img>
+            <img src="https://uploaddeimagens.com.br/images/004/676/739/full/consuelo.jpeg?1701201937"</img>
         </section>
 
         <section id="sobre">

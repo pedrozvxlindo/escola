@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Escola Exemplo</title>
+    <title>Cecm Marechal Rondon</title>
     <style>
         /* Estilos aqui */
     </style>
@@ -11,7 +11,7 @@
 <body>
 
     <header>
-        <h1>Escola Exemplo</h1>
+        <h1>Cecm Marechal Rondon</h1>
         <p>Transformando conhecimento em excelência</p>
     </header>
 
@@ -44,12 +44,12 @@
             <h2>Contato</h2>
             <p>Estamos sempre prontos para ouvir você. Entre em contato conosco para obter mais informações.</p>
             <p>Email: info@escolaexemplo.com</p>
-            <p>Telefone: (12) 3456-7890</p>
+            <p>Telefone: (69) 6969-6969</p>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2023 Escola Exemplo. Todos os direitos reservados.</p>
+        <p>&copy; 2023 Cecm Marechal Rondon. Todos os direitos reservados.</p>
     </footer>
 
     <!-- Adicione o link do seu site aqui -->
